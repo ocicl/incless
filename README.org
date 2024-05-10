@@ -5,5 +5,5 @@ A portable and extensible Common Lisp printer implementation
 |---------+------------------------------------------------------------|
 | source  | git:https://github.com/s-expressionists/Incless.git        |
 | commit  | a06e426                                                    |
-| systems | incless incless-native incless-intrinsic incless-extrinsic |
+| systems | incless incless-native incless-extrinsic                   |
 |---------+------------------------------------------------------------|
